@@ -1,0 +1,12 @@
+tls-client
+requests
+config_parser
+colorama
+typing_extensions
+beautifulsoup4
+datetime
+fake_useragent
+httpx
+asyncio
+tqdm~=4.66.5
+selenium
